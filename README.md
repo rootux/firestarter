@@ -1,6 +1,6 @@
-# Midburnerot Dreams
+# Midburn Dreams
 
-This is a platform to plan co-created events. It was originally created for Urban Burn Stockholm in 2016 and was then used for The Borderland in 2016 and For Midburnerot 2016. It's being continuously and sporadically developed by a rag-tag team and will probably always be in beta. This version was the adoption of the Midburnerot - Israeli regional winter event. You can see it in action here: 
+This is a platform to plan co-created events. It was originally created for Urban Burn Stockholm in 2016 and was then used for The Borderland in 2016 and For Midburnerot 2016. It's being continuously and sporadically developed by a rag-tag team and will probably always be in beta. This version was the adoption of the Midburn - Israeli regional community. You can see it in action here: 
 http://dreams.midburnerot.com
 and the original system here:
 http://dreams.theborderland.se/
@@ -55,6 +55,14 @@ and use `admin@example.com` and `password`
 * Enter your phone number and email
 * Then create your user with the same phone number and email here: [http://localhost:3000/users/sign_up](http://localhost:3000/users/sign_up)
 
+## User types in the system
+The system user types are: anonymous users, normal registered users, guides, admins
+
+You can set yourself as a guide and admin in the /admin panel
+
+Guide and admins see buttons on the dream page and info that normal and guests users dont have access to.
+Guide and admins can close/open granting and edit dreams
+
 ## Ticket ID Import
 
 Ticket ids are imported from a two column csv file of IDs which can be set to any url using `IMPORT_CSV_URL` env variable
@@ -83,3 +91,4 @@ To set up the image upload make sure to create the S3 user and set the following
 * `AWS_SECRET_ACCESS_KEY`
 
 From our experience, if the s3 bucket didn't exist - it was automatically created on first time upload in case your user have write access to s3.
+

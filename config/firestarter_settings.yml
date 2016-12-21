@@ -15,14 +15,15 @@ defaults: &defaults
   budgetplan: true
   seeking_members: true
   granting: true
-  user_authentication_codes: true
+  # Only people with "Ticket records of phone and email can register"
+  user_authentication_codes: false
   user_authentication_vs_tixwise: true
   add_to_list: true
   granting_active: true
   footer_text: true
   footer_logo: false
   creation_sidebar_welcome: true
-  safetybag: true
+  safetybag: false
   disable_open_new_dream: <%= ENV['disable_open_new_dream'] or false %>
   disable_edit_safetybag: <%= ENV['disable_edit_safetybag'] or false %>
   disable_edit_budget: <%= ENV['disable_edit_budget'] or false %>
