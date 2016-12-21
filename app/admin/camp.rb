@@ -12,5 +12,12 @@ permit_params :name, :description, :size_of_necessary_space,
 :safetybag_safety, :safetybag_electricity, :safetybag_daily_routine,
 :safetybag_other_comments
 
+if Rails.application.config.x.firestarter_settings['export_grants']
+  csv do
+    column :id
+    column :name
+    column(:grants_received) { |camp| camp.grants_received }
+  end
+end
 
 end
