@@ -4,7 +4,7 @@ defaults: &defaults
   description: true
   electricity: true
   light: true
-  fire: true
+  fire: <%= ENV['IS_SHOW_FIRE'] or false %>
   noise: true
   nature: true
   moop: true
