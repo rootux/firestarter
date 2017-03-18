@@ -24,11 +24,11 @@ he:
   html_direction: "rtl"
   reverse_direction: "left"
 
-  browser_title_tag: "חלומות מידברנרות"
+  browser_title_tag: "חלומות מידברן"
   # For facebook main page sharing
-  main_sharing_description: "חלומות מידברנרות היא פלטפורמה בה אנו חולמים ביחד ומפיחים רוח חיים ליצירות המופרכות והאדירות שלנו. במקום הזה אנחנו חולקים משאבים כדי להגשים חלומות. כל משתתף במידברנרות מקבל 10 מטבעות לחלק לפי שיקול דעתו. תדמיינו את המטבעות האלה ככוחות על שאיתם אתם יכולים לממש את החלומות האלה."
+  main_sharing_description: "חלומות מידברן היא פלטפורמה בה אנו חולמים ביחד ומפיחים רוח חיים ליצירות המופרכות והאדירות שלנו. במקום הזה אנחנו חולקים משאבים כדי להגשים חלומות. כל משתתף במידברן מקבל 10 מטבעות לחלק לפי שיקול דעתו. תדמיינו את המטבעות האלה ככוחות על שאיתם אתם יכולים לממש את החלומות האלה."
 
-  top_headline_html: "חלומות<br>מידברנרות"
+  top_headline_html: "חלומות<br>מידברן"
   top_headline_resources: "משאבים >"
   top_headline_dreams: "חלומות"
   top_headline_old_dreams: "חלומות שהוגשמו ב-2015"
@@ -43,13 +43,13 @@ he:
   logout_menu: "התנתקי"
 
   welcome_guest_title: "ברוכים הבאות לחלומות שלנו!"
-  welcome_guest_text_html: "מזל טוב! נתקלתם במשהו מיוחד! <b>מידברנרות</b> זה הדבר הכי מדהים שיש. אתם אפילו לא יכולים לתאר לעצמכם את הרעיונות הייחודיים, והמופרכים שאנשים ממציאים בשביל הדבר הזה! חלומות מידברנרות היא ספריה של הדימיון הקולקטיבי שלנו. אנחנו חולמים ביחד ומפיחים רוח חיים ליצירות המופרכות והאדירות שלנו. חלומות חייבים גם חומר כדי להתממש, ובמקום הזה אנחנו חולקים משאבים כדי שזה יקרה. כל משתתף במידברנרות מקבל 10 מטבעות לחלק לפי שיקול דעתו. תדמיינו את המטבעות האלה ככוחות על שאיתם אתם יכולים לממש את החלומות האלה. תתרשם מהסביבה כדי ליצור חלום משלך."
+  welcome_guest_text_html: "מזל טוב! נתקלתם במשהו מיוחד! <b>מידברן</b> זה הדבר הכי מדהים שיש. אתם אפילו לא יכולים לתאר לעצמכם את הרעיונות הייחודיים, והמופרכים שאנשים ממציאים בשביל הדבר הזה! חלומות מידברן היא ספריה של הדימיון הקולקטיבי שלנו. אנחנו חולמים ביחד ומפיחים רוח חיים ליצירות המופרכות והאדירות שלנו. חלומות חייבים גם חומר כדי להתממש, ובמקום הזה אנחנו חולקים משאבים כדי שזה יקרה. כל משתתף במידברן מקבל 10 מטבעות לחלק לפי שיקול דעתו. תדמיינו את המטבעות האלה ככוחות על שאיתם אתם יכולים לממש את החלומות האלה. תתרשם מהסביבה כדי ליצור חלום משלך."
   welcome_user_title: "ברוכים הבאות לחלומותייך!"
-  welcome_user_text_html: "חלומות מידברנרות היא ספריה של הדימיון הקולקטיבי שלנו. אנחנו חולמים ביחד ומפיחים רוח חיים ליצירות המופרכות והאדירות שלנו. חלומות חייבים גם חומר כדי להתממש, ובמקום הזה אנחנו חולקים משאבים כדי שזה יקרה. כל משתתף מידברנרות מקבל 10 מטבעות לחלק לפי שיקול דעתם. שזה בערך 30 שקלים. תדמיינו את המטבעות האלה ככוחות על שאיתם אתה יכול לממש את החלומות האלה. כדי להפעיל את המטבעות לחלומותיך, דבר עם מדריך חלומות המקומי הידידותי שלך. מגניב, נכון? תתרשם מהסביבה כדי ליצור חלום משלך."
+  welcome_user_text_html: "חלומות מידברן היא ספריה של הדימיון הקולקטיבי שלנו. אנחנו חולמים ביחד ומפיחים רוח חיים ליצירות המופרכות והאדירות שלנו. חלומות חייבים גם חומר כדי להתממש, ובמקום הזה אנחנו חולקים משאבים כדי שזה יקרה. כל משתתף מידברן מקבל 10 מטבעות לחלק לפי שיקול דעתם. שזה בערך 30 שקלים. תדמיינו את המטבעות האלה ככוחות על שאיתם אתה יכול לממש את החלומות האלה. כדי להפעיל את המטבעות לחלומותיך, דבר עם מדריך חלומות המקומי הידידותי שלך. מגניב, נכון? תתרשם מהסביבה כדי ליצור חלום משלך."
   header_faq_link: "היי את - האם קראת את עמוד שאלות ותשובות?"
-  footer_left_html: "מידברנרות זאת קהילה השתתפותית שבה אנחנו מיצרים ביחד אירועים ומפגשים כפרוטוטייפים לחלומותינו. זה כמו מיכל ריק, פתוח ליוזמתך. זאת הזמנה לשחק, להרהר, ולתקשר. אם יש לכם שאלות, אתם מוזמנים לשאול בקבוצת הפייסבוק שלנו. "
-  footer_right_html: " בדצמבר 2016 תתכנס קהילת המידברנרות בפארק ירוחם, ישראל. זה פסטיבל שבו כל האירגון והתוכן היצירתי נעשה על ידי המשתתפים. האירוע מיועד למשתתפים בלבד, ולא פתוחה לצופים."
-  footer_html: "המערכת נכתבה באהבה על-ידי <a href='http://www.theborderland.se/'>בורדרלנד</a> <a href='https://github.com/aerugo/firestarter'>(קוד מקור)</a> ואומצה על-ידי <a href='https://github.com/rootux/firestarter/'>לשכת החלומות</a> מידברנרות. לשאלות ותשובות <a href='http://dreams.midburnerot.com/pages/faq'>לחץ כאן</a>"
+  footer_left_html: "מידברן זאת קהילה השתתפותית שבה אנחנו מיצרים ביחד אירועים ומפגשים כפרוטוטייפים לחלומותינו. זה כמו מיכל ריק, פתוח ליוזמתך. זאת הזמנה לשחק, להרהר, ולתקשר. אם יש לכם שאלות, אתם מוזמנים לשאול בקבוצת הפייסבוק שלנו. "
+  footer_right_html: " בדצמבר 2016 תתכנס קהילת המידברן בפארק ירוחם, ישראל. זה פסטיבל שבו כל האירגון והתוכן היצירתי נעשה על ידי המשתתפים. האירוע מיועד למשתתפים בלבד, ולא פתוחה לצופים."
+  footer_html: "המערכת נכתבה באהבה על-ידי <a href='http://www.theborderland.se/'>בורדרלנד</a> <a href='https://github.com/aerugo/firestarter'>(קוד מקור)</a> ואומצה על-ידי <a href='https://github.com/rootux/firestarter/'>לשכת החלומות</a> מידברן. לשאלות ותשובות <a href='http://dreams.midburnerot.com/pages/faq'>לחץ כאן</a>"
   
   errors_str: "שגיאות"
 
@@ -65,23 +65,34 @@ he:
   form_creator_alternative_name_label: "אופציונלי - שם בעל החלום"
   form_creator_alternative_name_guidetext_html: "כאן ניתן לרשום את השם שנולדת איתו. או לחילופין כינוי/אלטר אגו במידה ותרצה לשמור על אנונימיות"
 
-  form_summary: "החלום בקצרה"
+  # Dream Description
+  form_summary: "תקציר החלום"
   form_dream_name_label: "שם החלום (חובה)"
   form_dream_name_guidetext_html: "איך קוראים לחלום שלך?"
   form_subtitle_label: "סיכום החלום במשפט (נדרש)"
   form_subtitle_guidetext_html: "סיכום קצר של החלום שאת מציעה. סיכום זה יופיע בעמוד הראשי של האתר. תעשי את זה קצר, עד 256 תווים."
-  form_creator_name_label: "שמך (נדרש לתיק בטיחות)"
+  form_creator_name_label: "שם הקבוצה/אמן"
   form_creator_name_guidetext_html: "איך קוראים לך, בעלת החלומות?"
+
+  form_dream_visability: "הפרוייקט פומבי?"
+  form_dream_visability_yes: "כן, הצג את החלום בפומבי"
+  form_dream_visability_no: "לא, הסתר את החלום לבינתיים"
+  form_dream_visability_guidetext_html: "פרוייקטים פומביאים יופיעו בעמוד הראשי. פרוייקט לא פומבי, יהיה זמין רק עם קישור ישיר."
+  form_dream_visability_not_public: "פרטי"
+
   form_creator_email_label: "כתובת מייל (נדרש)"
   form_creator_email_guidetext_html: "שיכלו להשיג אותך..."
   form_contact_phone_label: "מספר טלפון (לא יפורסם)"
   form_contact_phone_guidetext_html: "במידה ונצטרך להשיג אותך באופן דחוף."
+  form_about_the_artist_label: "על האמן"
+  form_dream_website_label: "אתר אינטרנט/עמוד פייסבוק של הפרויקט"
+  form_dream_website_short: "אתר החלום"
 
   form_additional_headline: "מידע נוסף"
   form_additional_info_text_html: "אפשר למלא את זה במועד מאוחר יותר או להשאיר ריק במידה ואין צורך."
 
   form_description_label: "תיאור מלא של הרעיון"
-  form_description_guidetext_html: "תני תיאור פיזי ורעיוני מלא, שכולל את האינטראקציה עם החלום ואיך הוא משתלב עם קהילת המידברנרות. יש לך 4096 תווים , תנצלי אותם! "
+  form_description_guidetext_html: "תני תיאור פיזי ורעיוני מלא, שכולל את האינטראקציה עם החלום ואיך הוא משתלב עם קהילת המידברן. יש לך 4096 תווים , תנצלי אותם! "
   form_electricity_label: "האם את זקוקה לחשמל? פרטי בוואטים"
   form_electricity_guidetext_html: "אם כן, כמה חשמל בערך מדובר בוואט?"
   form_light_label: "האם תהיה תאורה?"
@@ -103,6 +114,34 @@ he:
   form_neighbors_label: "מיקומיישן - מי הם השכנים המושלמים שלכם?"
   form_neighbors_guidetext_html: "מה היה מיקום טוב עבורכם? מבחינת מיקומיישן?"
 
+  form_dream_prop_head: "אופי היצירה"
+  form_dream_prop_philosophy: "מהי הפילוסופיה מאחורי היצירה?"
+  form_dream_prop_inspiration: "מהם מקורות ההשראה העומדים ברקע לפרויקט?"
+  form_dream_prop_inspiration_guidetext_html: "למשל - היסטוריים, תרבותיים, חברתיים"
+  form_dream_prop_interactivity: "אינטראקטיביות"
+  form_dream_prop_interactivity_audience_participation: "כיצד המיצב מערב את הקהל ומזמין השתתפות?"
+  form_dream_prop_interactivity_audience_participation_guidetext_html: "האמנות במידברן מעודדת פריצת גבולות בין יצירת אמנות לצופה בה. תנו דעתכם ליכולת של הפרט להשפיע על היצירה - לטפס, לגעת, להפעיל, לשחק וכדומה. ניתן ורצוי להתייחס לתזוזה, פרפורמנס,  אירועים / מפגשים / התרחשות סביב המיצב"
+  form_dream_prop_interactivity_is_fire_present: "האם המיצב מערב הפעלת אש כחלק אינטגרלי ומהותי?"
+  form_dream_prop_interactivity_fire_present_desc: "פירוט"
+  form_dream_prop_interactivity_fire_present_desc_guidetext_html: "שימו לב מיצבים המערבים שימוש באש ידרשו תיאום פרטני מול צוות מחלקת אמנות"
+  form_dream_prop_interactivity_is_sound: "האם המיצב 'יוצר' סאונד / רעש כלשהו?"
+  form_dream_prop_interactivity_sound_desc: "פירוט"
+  form_dream_prop_interactivity_sound_desc_guidetext_html: "איזה סאונד, איזו עוצמה, על ידי מי ובאילו שעות? (זאת כדי שנוכל למקם אתכם בצורה אופטימלית)"
+  form_dream_prop_interactivity_is_fire_event: "האם תרצו לתאם אירוע שריפה למיצב?"
+  form_dream_prop_interactivity_fire_event_desc: "פירוט"
+  form_dream_prop_interactivity_fire_event_desc_guidetext_html: "פרטו את המניעים והערך האמנותי בשריפת המיצב ואת האופן בו זה יבוצע (שריפת מיצבים תתואם מול מחלקת אש ומותנית באילוצים רבים. אין בהצהרה זו אישור או התחייבות לשריפתו של המיצב)"
+  form_dream_prop_community: "קהילה"
+  form_dream_prop_community_is_installation_present_for_event: "האם המיצב מוקם במיוחד עבור האירוע?"
+  form_dream_prop_community_is_installation_present_for_public: "האם המיצב מתוכנן להיות מוצב במרחב ציבורי כלשהו לאחר האירוע?"
+  form_dream_prop_community_is_context: "האם ישנו או מתכונן קשר לקהילה מחוץ למידברן לפני או אחרי האירוע?"
+  form_dream_prop_community_context_desc: "פירוט"
+  form_dream_prop_community_context_desc_guidetext_html: "שיתוף פעולה בזמן הבנייה, אירועים משותפים עם קהילות אחרות וכן הלאה"
+  form_dream_prop_community_is_interested_in_publicity: "באם תהיה אפשרות להציג את המיצב במרחב ציבורי/פסטיבלים/אירועי מידברן, האם תהיו מעוניינות?"
+  form_dream_prop_theme: "תמה"
+  form_dream_prop_theme_is_annual: "האם הפרויקט תומך בתמה השנתית של אירוע מידברן?"
+  form_dream_prop_theme_annual_desc: "פירוט"
+  form_dream_prop_theme_annual_desc_guidetext_html: "מהי הפילוסופיה של המיצב? האם המיצב שואב השראה או תומך בתמה השנתית - 'חלום צלול' ו/או עשרת העקרונות?"
+  
   form_basics_safety_bag: "שדות שמסומנים בורוד זוהר הינם שדות חובה לטובת תיק הבטיחות. רובם לא מוצגים בספריית החלומות הציבורית ומיועדים לאישור המיצב"
   form_safetybag_headline: "מידע לתיק בטיחות"
   form_safetybag_show_hide: "הצג / הסתר שדות תיק בטיחות"
@@ -145,7 +184,7 @@ he:
   form_safetybag_remember_sketch: "אנא וודאו כי בנוסף לתמונה, העלתם שרטוט טכני לחלום - ללא שרטוט טכני לא ניתן יהיה לקבל אישור תיק בטיחות"
 
   form_artgrants_headline: "מידע על מטבעות אמנות"
-  form_artgrants_text_html: "אם אינך מחפש מענק כספי לסיוע הגשמת החלום שלך, השאר את השדות האלה ריקים.<br>מענקים אומנותיים כספיים מעונקים כמטבעות על ידי משתתפי המידברנרות. לכל משתתף שתרם לארוע המידברנרות יש 10 מטבעות לחלק שזה כ-30 שקלים. אפשר להעניק את כל עשרת המטבעות לפרוייקט אחד או לחלק אותם בין כמה פרוייקטים. ברגע שהוענק מטבע, לא ניתן לקבלו בחזרה. כרגע אנא הכנס את הכסף בשקלים ואנחנו נמירו למטבעות - כל מטבע שווה בערך ל-3 שקלים. משמע לכל משתתף יש להעניק בערך ~30 שקלים. חשוב לזכור שזה ארוע קטן וככל שנהיה מינימליסטים כך יותר חלומות יוכלו להתגשם."
+  form_artgrants_text_html: "אם אינך מחפש מענק כספי לסיוע הגשמת החלום שלך, השאר את השדות האלה ריקים.<br>מענקים אומנותיים כספיים מעונקים כמטבעות על ידי משתתפי המידברן. לכל משתתף שתרם לארוע המידברן יש 10 מטבעות לחלק שזה כ-30 שקלים. אפשר להעניק את כל עשרת המטבעות לפרוייקט אחד או לחלק אותם בין כמה פרוייקטים. ברגע שהוענק מטבע, לא ניתן לקבלו בחזרה. כרגע אנא הכנס את הכסף בשקלים ואנחנו נמירו למטבעות - כל מטבע שווה בערך ל-3 שקלים. משמע לכל משתתף יש להעניק בערך ~30 שקלים. חשוב לזכור שזה ארוע קטן וככל שנהיה מינימליסטים כך יותר חלומות יוכלו להתגשם."
 
   form_minigrants_realcurrency_label: "מספר מינימלי של כסף בשקלים הנדרש ליצירת הפרויקט"
   form_minigrants_realcurrency_guidetext_html: "התקציב המינימלי שאתה צריך כדי להרים את הפרוייקט, שמתחתיו לא תוכל להרימו. חשוב לזכור שזה ארוע קטן - בוא ננסה להיות מדוייקים ברצונות שלנו וכך כולנו נוכל לחלום יחדיו. אנחנו נמיר את זה למטבעות - 1 מטבע = ~3 שקלים"
@@ -158,7 +197,7 @@ he:
   form_maxigrants_guidetext_html: "כמה מטבעות אתה צריך כדי לממן את הפרוייקט במלואו"
   form_budgetplan_label: "סקירת התקציב בש\"ח"
   form_budgetplan_guidetext_html: "איך תשתמשו בתקציב שלכם? תתארו את העלויות שלכם לפי נושאים כללים של הצרכים שלכם בשקלים. לדוג׳ - הובלה, ציוד לקנייה וכדומה."
-  create_dream: "צור חלום!"
+  create_dream: "לשלב הבא >>"
   update_dream: "עדכן חלום!"
   edit_dream: "ערוך חלום"
   manage_images: "ערוך תמונות"
@@ -174,17 +213,21 @@ he:
 
   currency: "ש\"ח"
 
-  created_new_dream: "יש! יצרת חלום. השלב הבא הוא להוסיף תמונה, שרטוט טכני או הדמייה של החלום"
+  created_new_dream: "השלב הראשון הושלם! ניתן לעדכן את פרטי החלום כעת וגם ניתן לחזור ולהשלימם בעתיד"
 
   # Creation view
   what_is_this_title: "מה זה?"
-  what_is_this_text_html: "מזל טוב! נתקלתם במשהו מיוחד! <b>מידברנרות</b> זה הדבר הכי מדהים שיש. אתם אפילו לא יכולים לתאר לעצמכם את הרעיונות הייחודיים, והמפורכים שאנשים ממציאים בשביל הדבר הזה! בום!"
+  what_is_this_text_html: "מזל טוב! נתקלתם במשהו מיוחד! <b>מידברן</b> זה הדבר הכי מדהים שיש. אתם אפילו לא יכולים לתאר לעצמכם את הרעיונות הייחודיים, והמפורכים שאנשים ממציאים בשביל הדבר הזה! בום!"
 
   creation_info_headline: "פרטים"
   next_random_dream: "חלום רנדומלי הבא"
-  contact_name: "שם החולם"
+  contact_name: "שם הקבוצה/אמן"
   contact_alternative_name: "שם החולם"
   contact_email: "אימייל"
+  save_camp: "שמור והמשך"
+  done_camp: "סיימתי"
+
+  actions_headline: "פעולות"
 
   # Guide safetybag
   creation_safetybaginfo_headline: "פרטי תיק בטיחות (מוצג רק לך, בעל החלום)"
@@ -349,6 +392,7 @@ he:
         maxbudget: "תקציב מקסימלי"
         grants_received: "מטבעות שהוענקו"
         grantingtoggle: "מענקים מופעלים"
+        active: "פעיל"
         created_at: "נוצר"
         updated_at: "עודכן"
         minfunded: "מימון מינימלי הושג"
@@ -372,6 +416,24 @@ he:
         safetybag_firstMemberEmail: "אימייל חבר צוות נוסף"
         safetybag_secondMemberName: "שם חבר צוות נוסף 2"
         safetybag_secondMemberEmail: "אימייל חבר צוות נוסף 2"
+        dreamprop_philosophy: "פילוסופיית היצירה"
+        dreamprop_inspiration: "מקורות השראה"
+        dreamprop_interactivity_audience_participation: "השתתפות קהל"
+        dreamprop_interactivity_is_fire_present: "אש"
+        dreamprop_interactivity_fire_present_desc: "פירוט אש"
+        dreamprop_interactivity_is_sound: "סאונד"
+        dreamprop_interactivity_sound_desc: "פירוט סאונד"
+        dreamprop_interactivity_is_fire_event: "שריפת מיצב"
+        dreamprop_interactivity_fire_event_desc: "פירוט שריפת מיצב"
+        dreamprop_community_is_installation_present_for_event: "מיצב מוקם במיוחד לאירוע"
+        dreamprop_community_is_installation_present_for_public: "מיצב מתוכנן להיות מוצב במרחב ציבורי"
+        dreamprop_community_is_context: "קשר לקהילה"
+        dreamprop_community_context_desc: "פירוט קשר לקהילה"
+        dreamprop_community_is_interested_in_publicity: "מעוניין להציג במרחב ציבורי"
+        dreamprop_theme_is_annual: "תמה שנתית"
+        dreamprop_theme_annual_desc: "פירוט תמה שנתית"
+        
+        
       grant:
         amount: "כמות"
         created_at: "נוצר"
