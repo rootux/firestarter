@@ -10,7 +10,7 @@ permit_params :name, :description, :size_of_necessary_space,
 :safetybag_safetyer, :safetybag_mooper, :safetybag_materials,
 :safetybag_work_in_height, :safetybag_tools, :safetybag_grounding,
 :safetybag_safety, :safetybag_electricity, :safetybag_daily_routine,
-:safetybag_other_comments, :eventId
+:safetybag_other_comments, :event_id
 
 if Rails.application.config.x.firestarter_settings['export_grants']
   csv do
