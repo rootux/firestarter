@@ -1,4 +1,4 @@
-<%# app/views/students/_list.html.erb %>
+<%# app/views/camps/_list.html.erb %>
 <div id="filterrific_results">
 
     <%=t :sort_by%>:
@@ -6,7 +6,7 @@
 
     <div class="camps_list">
 
-        <% @camps.each do |camp| %>
+    <% @camps.select { |camp| camp.event_id == Rails.application.config.default_event }.each do |camp| %>
         <div class='col-md-4'>
             <a href="<%= url_for(camp) %>">
 

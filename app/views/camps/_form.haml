@@ -114,7 +114,7 @@
       = form.text_area :neighbors, :maxlength => 4096
       = t("form_neighbors_guidetext_html")
 
-  - if Rails.configuration.x.firestarter_settings["safetybag"]
+  - if Rails.configuration.x.firestarter_settings["extramembers"]
     .header-heading
       = t("form_extra_team_member_head")
     
@@ -218,11 +218,6 @@
         = t("form_safetybag_other_comments_guidetext_html")
 
       %br
-      %div
-        %a{ :href => "https://goo.gl/forms/nZM1aSRzxRQ2RMEr2", :target => "blank"}
-          = t("form_safetybag_the_form_label")
-
-      %br
       %div.safetytext
         = t("form_safetybag_remember_sketch")
 
@@ -257,9 +252,6 @@
       = t("form_maxigrants_realcurrency_guidetext_html")
 
   %br
-    %div
-      %a{ :href => "https://goo.gl/forms/nZM1aSRzxRQ2RMEr2", :target => "blank"}
-        = t("form_safetybag_the_form_label")
     %div
       %a{ :href => "../pages/faq", :target => "blank"}
         = t("header_faq_link")

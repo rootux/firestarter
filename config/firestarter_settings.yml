@@ -15,8 +15,8 @@ defaults: &defaults
   budgetplan: true
   seeking_members: true
   granting: true
-  user_authentication_codes: true
-  user_authentication_vs_tixwise: true
+  user_authentication_codes: false
+  user_authentication_vs_tixwise: false
   add_to_list: true
   granting_active: true
   footer_text: true
@@ -27,6 +27,7 @@ defaults: &defaults
   disable_edit_safetybag: <%= ENV['disable_edit_safetybag'] or false %>
   disable_edit_budget: <%= ENV['disable_edit_budget'] or false %>
   export_grants: <%= ENV['EXPORT_GRANTS'] or false %>
+  extramembers: false
 
 development:
   <<: *defaults

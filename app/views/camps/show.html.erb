@@ -256,6 +256,10 @@
                         </span></li>
                     <% end %>
                 <% end %>
+                
+                <li><span>
+                    <b><%=t :form_event_label %></b> <%= @camp.event_id %>
+                </span></li>
 
                 <% if !current_user || @camp.creator != current_user %>
                     <% random = Camp.order("RANDOM()").first %>
@@ -276,7 +280,7 @@
 
         </div> <!-- creation-info -->
 
-        <% if Rails.configuration.x.firestarter_settings["safetybag"] && (current_user && current_user.guide || (@camp.creator == current_user))%>
+        <% if Rails.configuration.x.firestarter_settings["extramembers"] && (current_user && current_user.guide || (@camp.creator == current_user))%>
             <div class="panel panel-default">
                 <div class="panel-heading"><b><%=t :form_extra_team_member_head %></b></div>
                 <div class="panel-body">

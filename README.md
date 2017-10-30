@@ -83,3 +83,8 @@ To set up the image upload make sure to create the S3 user and set the following
 * `AWS_SECRET_ACCESS_KEY`
 
 From our experience, if the s3 bucket didn't exist - it was automatically created on first time upload in case your user have write access to s3.
+
+
+# Events
+Each year we have new dreams.
+We need to update each year by setting the `default_event` parameter in the `application.rb` file
