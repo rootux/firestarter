@@ -70,6 +70,12 @@ Make sure you change the username, password, token and event id
 
 ## Production
 
+#### Schema changes
+After any schema changes make sure you run
+`heroku run rake db:migrate --app=YOUR_APP`
+Then you might need to restart the instance with
+`heroku run restart --app=YOUR_APP`
+
 #### Email
 To get the mailing system working on Heroku -
 * Add Sendgrid as a Resource (this will automatically set SENDGRID_USERNAME & SENDGRID_PASSWORD)

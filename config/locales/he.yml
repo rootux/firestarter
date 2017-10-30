@@ -375,6 +375,7 @@ he:
         safetybag_firstMemberEmail: "אימייל חבר צוות נוסף"
         safetybag_secondMemberName: "שם חבר צוות נוסף 2"
         safetybag_secondMemberEmail: "אימייל חבר צוות נוסף 2"
+        eventId: "מזהה שנת ארוע"
       grant:
         amount: "כמות"
         created_at: "נוצר"
