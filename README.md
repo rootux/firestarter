@@ -94,3 +94,10 @@ From our experience, if the s3 bucket didn't exist - it was automatically create
 # Events
 Each year we have new dreams.
 We need to update each year by setting the `default_event` parameter in the `application.rb` file
+
+If you just integrated the events be sure to run
+`rails console`
+OR
+`heroku run rails console --app=YOUR_APP`
+Then set all events to your event - for example for midburnerot2016 we call
+`Camp.all.each do |camp| camp.update(event_id:'midburnerot2016') end`
