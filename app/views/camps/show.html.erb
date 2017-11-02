@@ -14,7 +14,7 @@
         </div>
 
         <div id="links">
-            <% @camp.images.each_with_index do |image, index| %>
+            <% @camp.images.order({ created_at: :desc}).each_with_index do |image, index| %>
                 <% status = "" %>
                 <% if index == 0 %>
                     <% status = "active" %>
