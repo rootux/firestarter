@@ -135,7 +135,7 @@ he:
   form_safetybag_tools_label: "כלי עבודה"
   form_safetybag_tools_guidetext_html: "מעדר? מקדחה? מסור? ידיים?"
   form_safetybag_grounding_label: "קיבוע המיצב לקרקע וגודל המיצב"
-  form_safetybag_grounding_guidetext_html: "איך המיצב יהיה מחובר לקרקע? גובה במטרים, אורך במטרים, רוחב במטרים"
+  form_safetybag_grounding_guidetext_html: "איך המיצב יהיה מחובר לקרקע? ומה גובה המיצב במטרים, אורך במטרים, רוחב במטרים"
   form_safetybag_safety_label: "אבטוח/סימון/מניעת פציעות"
   form_safetybag_safety_guidetext_html: "איך תאבטחו את המיצב ומתסמנו אותו?"
   form_safetybag_electricity_label: "בטיחות בחשמל"
