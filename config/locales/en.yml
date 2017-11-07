@@ -69,7 +69,7 @@ en:
   form_dream_name_guidetext_html: "What's your dream prototype called?"
   form_subtitle_label: "Summarize your dream (required)"
   form_subtitle_guidetext_html: "Brief summary of the dream prototype you are applying for that will go on the front page of the dreams site. Keep it short, under 256 characters."
-  form_creator_name_label: "Your name (required)"
+  form_creator_name_label: "Artist / Collective name"
   form_creator_name_guidetext_html: "What's your name, dreamer?"
   form_creator_email_label: "Your email (required)"
   form_creator_email_guidetext_html: "To let people get in touch..."
