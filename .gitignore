@@ -6,3 +6,4 @@ log/
 .env
 public/system/
 db/test.sqlite3
+.idea/

@@ -94,6 +94,7 @@ From our experience, if the s3 bucket didn't exist - it was automatically create
 # Events
 Each year we have new dreams.
 We need to update each year by setting the `default_event` parameter in the `application.rb` file
+and also to create a migration file similar to `set_event_default_to_2018` and run it
 
 If you just integrated the events be sure to run
 `rails console`
