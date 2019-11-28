@@ -90,6 +90,9 @@ To set up the image upload make sure to create the S3 user and set the following
 
 From our experience, if the s3 bucket didn't exist - it was automatically created on first time upload in case your user have write access to s3.
 
+# Deploy
+When you commit to master there is an auto commit to staging http://stg-dreams.burnerot.com/
+To deploy to production - open heroku dashboard navgiate to project and click on deploy to production
 
 # Events
 Each year we have new dreams.
