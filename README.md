@@ -92,7 +92,7 @@ From our experience, if the s3 bucket didn't exist - it was automatically create
 
 # Deploy
 When you commit to master there is an auto commit to staging http://stg-dreams.burnerot.com/
-To deploy to production - open heroku dashboard navgiate to project and click on deploy to production
+To deploy to production - open heroku dashboard navgiate to project and click on "Promote to production"
 
 # Events
 Each year we have new dreams.
